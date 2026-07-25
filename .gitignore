@@ -1,0 +1,12 @@
+# IDE, logs, and system files
+.thumbnail
+.gemini/
+.DS_Store
+Thumbs.db
+node_modules/
+*.log
+
+# Project-specific temporary files
+uploads/
+screenshots/
+scraps/
